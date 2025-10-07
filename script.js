@@ -99,5 +99,7 @@ document.addEventListener("keydown", (e) => {
     moveInX=1;
     moveInY=0;
     headDirection="right";
+  } else {
+    pass;
   }
 });
